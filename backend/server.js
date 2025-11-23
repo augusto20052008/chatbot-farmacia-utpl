@@ -13,8 +13,11 @@ app.use(express.json());
 // --- Configuración de Gemini ---
 const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 
-// ✨ USANDO EL MODELO QUE PEDISTE ✨
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+// CAMBIA ESTO:
+// const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+
+// POR ESTO (El modelo seguro):
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 // --- EL PROTOCOLO CONVERSACIONAL (VERSIÓN 2.0) ---
 // --- EL PROTOCOLO CONVERSACIONAL (VERSIÓN 3.0 Estética) ---
