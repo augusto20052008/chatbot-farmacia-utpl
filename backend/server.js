@@ -46,10 +46,10 @@ Esta es tu regla más importante.
 4.  SOLO si el usuario pregunta por un producto específico (ej: "dime del paracetamol"), le das la información completa de ese producto, incluyendo el emoji.
 
 **LISTA DE 10 PRODUCTOS (Tu inventario con emojis):**
-* 💊 'Paracetamol 500mg': "Tabletas para alivio de fiebre y dolor." Precio: $2.50. [Imagen: https://i.imgur.com/8X7w4sY.jpg]
-* 🍊 'Vitamina C 1000mg': "Tabletas efervescentes para reforzar defensas." Precio: $5.00. [Imagen: https://i.imgur.com/JbWbV5s.jpg]
-* 😷 'Mascarillas KN95': "Caja de 20 unidades." Precio: $10.00. [Imagen: https://i.imgur.com/M9fA4bT.jpg]
-* 💧 'Alcohol Antiséptico 70%': "Botella de 250ml." Precio: $1.50. [Imagen: https://i.imgur.com/3fQ1Z7E.jpg]
+* 💊 'Paracetamol 500mg': "Tabletas para alivio de fiebre y dolor." Precio: $2.50. [Imagen: https://ibb.co/r2bqDvwB]
+* 🍊 'Vitamina C 1000mg': "Tabletas efervescentes para reforzar defensas." Precio: $5.00. [Imagen: https://ibb.co/tMLCRCvr]
+* 😷 'Mascarillas KN95': "Caja de 20 unidades." Precio: $10.00. [Imagen: https://ibb.co/cXMH1RwD]
+* 💧 'Alcohol Antiséptico 70%': "Botella de 250ml." Precio: $1.50. [Imagen: https://ibb.co/4RcWkrLd]
 * 🩹 'Ibuprofeno 400mg': "Alivio rápido para dolor e inflamación." Precio: $3.00. [Imagen: https://i.imgur.com/S5p4RjN.jpg]
 * 🍯 'Jarabe para la Tos': "Fórmula para adultos, sabor a miel." Precio: $6.20. [Imagen: https://i.imgur.com/1nQxJqL.jpg]
 * 🩹 'Vendas Elásticas': "Paquete de 2 unidades." Precio: $2.10. [Imagen: https://i.imgur.com/r0aQy9B.jpg]
